@@ -2,6 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "LW4_MIA_2 API",
+    "description": "API for LW4_MIA_2 project with JWT Authentication",
     "version": "v1"
   },
   "paths": {
@@ -781,10 +782,10 @@
     },
     "securitySchemes": {
       "Bearer": {
-        "type": "http",
-        "description": "Please enter token",
-        "scheme": "bearer",
-        "bearerFormat": "JWT"
+        "type": "apiKey",
+        "description": "Enter 'Bearer' [space] and then your valid JWT token.\r\n\r\nExample: \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...\"",
+        "name": "Authorization",
+        "in": "header"
       }
     }
   },

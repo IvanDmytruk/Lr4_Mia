@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -206,11 +210,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\appsettings.json",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\appsettings.json",
+              "RelativeToolTip": "LW4_MIA_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T12:43:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\WeatherForecast.cs",
@@ -218,12 +235,11 @@
               "RelativeToolTip": "LW4_MIA_2\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:10:17.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T12:10:17.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\TodoController.cs",
@@ -231,12 +247,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\TodoController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T14:03:50.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T14:03:50.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\UserController.cs",
@@ -244,25 +259,24 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T14:28:37.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T14:28:37.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs*",
-              "RelativeToolTip": "LW4_MIA_2\\Program.cs*",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAADAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T13:32:01.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Testcontroler.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\Testcontroler.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\Testcontroler.cs",
@@ -270,12 +284,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\Testcontroler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:50:56.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:50:56.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthController .cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\AuthController .cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\AuthController .cs",
@@ -283,12 +296,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\AuthController .cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:50:12.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:50:12.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TokenRefreshRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
@@ -296,12 +308,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:27:33.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:27:33.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthResponse.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthResponse.cs",
@@ -309,12 +320,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:32:39.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:32:39.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\JwtSettings.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\JwtSettings.cs",
@@ -322,12 +332,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:08:07.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:08:07.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TodoDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TodoDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TodoDto.cs",
@@ -335,12 +344,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\TodoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:54:29.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:54:29.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\UserDto.cs",
@@ -348,12 +356,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:53:04.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:53:04.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\User.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\User.cs",
@@ -361,12 +368,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:24:03.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:24:03.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IAuthServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IAuthServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IAuthServices.cs",
@@ -374,12 +380,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\IAuthServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:35:12.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:35:12.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ITokenService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ITokenService.cs",
@@ -387,12 +392,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:34:05.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:34:05.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\UserRepository.cs",
@@ -400,12 +404,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:24:19.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:24:19.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthResponse.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthResponse.cs",
@@ -413,12 +416,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:59:43.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:59:43.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthService.cs",
@@ -426,12 +428,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\AuthService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:48:49.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:48:49.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\UserService.cs",
@@ -439,12 +440,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:56:53.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:56:53.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IUserService.cs",
@@ -452,12 +452,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:41:33.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:41:33.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Club.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Club.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Club.cs",
@@ -465,12 +464,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Models\\Club.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:24:45.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:24:45.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AppMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
@@ -478,12 +476,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:55:39.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:55:39.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\CategoryService.cs",
@@ -491,12 +488,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:01:43.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:01:43.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ClubService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ClubService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ClubService.cs",
@@ -504,12 +500,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\ClubService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:01:29.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:01:29.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AuthRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthRequest.cs",
@@ -517,12 +512,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\AuthRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:32:14.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:32:14.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IRepositoriesUser.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
@@ -530,12 +524,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:25:30.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:25:30.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RegisterRequest.cs",
@@ -543,12 +536,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:26:41.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:26:41.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\LoginRequest.cs",
@@ -556,12 +548,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T13:27:08.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T13:27:08.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TokenService.cs",
@@ -569,12 +560,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:34:46.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:34:46.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "TodoSetvice.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TodoSetvice.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TodoSetvice.cs",
@@ -582,12 +572,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\TodoSetvice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:56:40.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:56:40.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Todo.cs",
@@ -595,12 +584,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Models\\Todo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:24:41.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:24:41.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ITodoServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ITodoServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ITodoServices.cs",
@@ -608,12 +596,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\ITodoServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:42:22.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:42:22.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IClubServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IClubServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IClubServices.cs",
@@ -621,12 +608,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\IClubServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:42:56.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:42:56.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ICategoryServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ICategoryServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ICategoryServices.cs",
@@ -634,12 +620,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Services\\ICategoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:43:35.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:43:35.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "TodoRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\TodoRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\TodoRepository.cs",
@@ -647,12 +632,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\TodoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:24:18.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:24:18.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IRepositoriesTodo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
@@ -660,12 +644,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:12:57.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:12:57.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IRepositoriesClub.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
@@ -673,12 +656,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:12:59.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:12:59.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IRepositoriesCategory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
@@ -686,12 +668,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T12:45:20.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T12:45:20.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "IRepositories.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositories.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositories.cs",
@@ -699,12 +680,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:47:02.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:47:02.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ClubRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ClubRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ClubRepository.cs",
@@ -712,12 +692,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\ClubRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:24:13.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:24:13.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\CategoryRepository.cs",
@@ -725,12 +704,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T11:24:13.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:24:13.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Category.cs",
@@ -738,12 +716,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:24:46.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:24:46.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "EnumDay.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumDay.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumDay.cs",
@@ -751,12 +728,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Enum\\EnumDay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:47:10.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:47:10.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "EnumCategory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumCategory.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumCategory.cs",
@@ -764,12 +740,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Enum\\EnumCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:47:10.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:47:10.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "RefreshRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RefreshRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RefreshRequest.cs",
@@ -777,12 +752,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\RefreshRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T12:33:10.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T12:33:10.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ClubDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\ClubDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\ClubDto.cs",
@@ -790,12 +764,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\ClubDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:54:02.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:54:02.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\CategoryDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\CategoryDto.cs",
@@ -803,12 +776,11 @@
               "RelativeToolTip": "LW4_MIA_2\\DTO\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:53:32.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:53:32.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "InMemoryDatebase.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Data\\InMemoryDatebase.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Data\\InMemoryDatebase.cs",
@@ -816,12 +788,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Data\\InMemoryDatebase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T21:45:13.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T21:45:13.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ClubController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\ClubController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\ClubController.cs",
@@ -829,12 +800,11 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\ClubController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T14:15:06.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T14:15:06.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\CategoryController.cs",
@@ -842,8 +812,7 @@
               "RelativeToolTip": "LW4_MIA_2\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:36:40.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T13:36:40.982Z"
             }
           ]
         }

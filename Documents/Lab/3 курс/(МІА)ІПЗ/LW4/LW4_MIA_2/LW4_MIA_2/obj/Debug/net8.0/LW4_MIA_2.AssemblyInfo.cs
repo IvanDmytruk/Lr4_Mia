@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LW4_MIA_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03791de94fb5b92a3379ac0c18ed5a1227ed63da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5d74949e27c21f6f59bb521d57f45e9a7685cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LW4_MIA_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LW4_MIA_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

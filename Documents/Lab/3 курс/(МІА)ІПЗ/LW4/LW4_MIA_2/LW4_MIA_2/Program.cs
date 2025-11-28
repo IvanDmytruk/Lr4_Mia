@@ -25,56 +25,66 @@ builder.Services.AddSingleton<IMongoDatabase>(sp =>
 });
 
 // Repositories
-builder.Services.AddSingleton<IRepositoriesUser, UserRepository>();
-builder.Services.AddSingleton<IRepositoriesClub, ClubRepository>();
-builder.Services.AddSingleton<IRepositoriesTodo, TodoRepository>();
-builder.Services.AddSingleton<IRepositoriesCategory, CategoryRepository>();
+builder.Services.AddScoped<IRepositoriesUser, UserRepository>();
+builder.Services.AddScoped<IRepositoriesClub, ClubRepository>();
+builder.Services.AddScoped<IRepositoriesTodo, TodoRepository>();
+builder.Services.AddScoped<IRepositoriesCategory, CategoryRepository>();
 
 // Services
-builder.Services.AddSingleton<ICategoryServices, CategoryService>();
-builder.Services.AddSingleton<IUserService, UserService>();
-builder.Services.AddSingleton<IClubServices, ClubService>();
-builder.Services.AddSingleton<ITodoServices, TodoSetvice>();
-builder.Services.AddSingleton<IAuthService, AuthService>();
+builder.Services.AddScoped<ICategoryServices, CategoryService>();
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IClubServices, ClubService>();
+builder.Services.AddScoped<ITodoServices, TodoSetvice>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
-// JWT settings
+// AutoMapper
+builder.Services.AddAutoMapper(typeof(Program));
+
+// JWT settings - з перевіркою на null
+var jwtSettings = builder.Configuration.GetSection("JwtSettings").Get<JwtSettings>();
+if (jwtSettings == null)
+{
+    throw new InvalidOperationException("JwtSettings configuration is missing from appsettings.json");
+}
+
 builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
+
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        var jwt = builder.Configuration.GetSection("JwtSettings").Get<JwtSettings>()!;
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
             ValidateAudience = true,
             ValidateIssuerSigningKey = true,
-            ValidIssuer = jwt.Issuer,
-            ValidAudience = jwt.Audience,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwt.SecretKey))
+            ValidIssuer = jwtSettings.Issuer,
+            ValidAudience = jwtSettings.Audience,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings.SecretKey))
         };
     });
 
 builder.Services.AddAuthorization();
 
-// Swagger для нових версій
+// Swagger configuration
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
         Title = "LW4_MIA_2 API",
-        Version = "v1"
+        Version = "v1",
+        Description = "API for LW4_MIA_2 project with JWT Authentication"
     });
 
-    // JWT для Swagger
+    // Add JWT Authentication to Swagger
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
-        In = ParameterLocation.Header,
-        Description = "Please enter token",
         Name = "Authorization",
-        Type = SecuritySchemeType.Http,
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer",
         BearerFormat = "JWT",
-        Scheme = "bearer"
+        In = ParameterLocation.Header,
+        Description = "Enter 'Bearer' [space] and then your valid JWT token.\r\n\r\nExample: \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...\""
     });
 
     c.AddSecurityRequirement(new OpenApiSecurityRequirement
