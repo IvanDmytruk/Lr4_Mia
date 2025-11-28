@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -210,24 +206,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\appsettings.json",
-              "RelativeDocumentMoniker": "LW4_MIA_2\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\appsettings.json",
-              "RelativeToolTip": "LW4_MIA_2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T12:43:56.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\WeatherForecast.cs",
@@ -235,11 +218,12 @@
               "RelativeToolTip": "LW4_MIA_2\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T12:10:17.402Z"
+              "WhenOpened": "2025-11-28T12:10:17.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\TodoController.cs",
@@ -251,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\UserController.cs",
@@ -263,20 +247,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs",
               "RelativeToolTip": "LW4_MIA_2\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T13:32:01.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Testcontroler.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\Testcontroler.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\Testcontroler.cs",
@@ -288,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AuthController .cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\AuthController .cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\AuthController .cs",
@@ -300,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TokenRefreshRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
@@ -312,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthResponse.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthResponse.cs",
@@ -324,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\JwtSettings.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\JwtSettings.cs",
@@ -336,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "TodoDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TodoDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TodoDto.cs",
@@ -348,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\UserDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\UserDto.cs",
@@ -360,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\User.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\User.cs",
@@ -372,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IAuthServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IAuthServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IAuthServices.cs",
@@ -384,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ITokenService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ITokenService.cs",
@@ -396,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\UserRepository.cs",
@@ -408,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthResponse.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthResponse.cs",
@@ -420,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthService.cs",
@@ -432,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\UserService.cs",
@@ -444,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IUserService.cs",
@@ -456,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Club.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Club.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Club.cs",
@@ -468,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "AppMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
@@ -480,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\CategoryService.cs",
@@ -492,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "ClubService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ClubService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ClubService.cs",
@@ -504,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "AuthRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthRequest.cs",
@@ -516,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "IRepositoriesUser.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
@@ -528,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RegisterRequest.cs",
@@ -540,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\LoginRequest.cs",
@@ -552,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TokenService.cs",
@@ -564,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "TodoSetvice.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TodoSetvice.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TodoSetvice.cs",
@@ -576,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Todo.cs",
@@ -588,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "ITodoServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ITodoServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ITodoServices.cs",
@@ -600,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "IClubServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IClubServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IClubServices.cs",
@@ -612,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "ICategoryServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ICategoryServices.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ICategoryServices.cs",
@@ -624,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "TodoRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\TodoRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\TodoRepository.cs",
@@ -636,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "IRepositoriesTodo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
@@ -648,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "IRepositoriesClub.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
@@ -660,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "IRepositoriesCategory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
@@ -672,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "IRepositories.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositories.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositories.cs",
@@ -684,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "ClubRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ClubRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ClubRepository.cs",
@@ -696,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\CategoryRepository.cs",
@@ -708,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Category.cs",
@@ -720,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "EnumDay.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumDay.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumDay.cs",
@@ -732,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "EnumCategory.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumCategory.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumCategory.cs",
@@ -744,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "RefreshRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RefreshRequest.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RefreshRequest.cs",
@@ -756,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "ClubDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\ClubDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\ClubDto.cs",
@@ -768,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\CategoryDto.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\CategoryDto.cs",
@@ -780,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "InMemoryDatebase.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Data\\InMemoryDatebase.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Data\\InMemoryDatebase.cs",
@@ -792,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "ClubController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\ClubController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\ClubController.cs",
@@ -804,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\CategoryController.cs",

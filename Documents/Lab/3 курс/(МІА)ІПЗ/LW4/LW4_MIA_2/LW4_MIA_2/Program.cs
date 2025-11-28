@@ -9,6 +9,13 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Додаємо конфігурацію порту для Render.com
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(Int32.Parse(port));
+});
+
 // Add services to container
 builder.Services.AddControllers();
 
