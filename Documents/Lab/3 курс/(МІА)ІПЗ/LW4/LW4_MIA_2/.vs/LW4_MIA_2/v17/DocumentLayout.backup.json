@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\tokenrefreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\tokenrefreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\testcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\testcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\mapping\\appmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\mapping\\appmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\clubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\irepositoriesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\irepositoriesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\todosetvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\todosetvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\itodoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\itodoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\iclubservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\iclubservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\services\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\services\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\irepositoriestodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\irepositoriestodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\irepositoriesclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\irepositoriesclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\irepositoriescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\irepositoriescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\irepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\irepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\enum\\enumday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\enum\\enumday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\enum\\enumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\enum\\enumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\clubdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\clubdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\data\\inmemorydatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\data\\inmemorydatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|c:\\users\\admin\\documents\\lab\\3 \u043A\u0443\u0440\u0441\\(\u043C\u0456\u0430)\u0456\u043F\u0437\\lw4\\lw4_mia_2\\lw4_mia_2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8140EE91-9BE1-493A-8CDD-FDB4BC528417}|LW4_MIA_2\\LW4_MIA_2.csproj|solutionrelative:lw4_mia_2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\WeatherForecast.cs",
+              "RelativeToolTip": "LW4_MIA_2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:10:17.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:03:50.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:28:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Program.cs*",
+              "RelativeToolTip": "LW4_MIA_2\\Program.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:32:01.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Testcontroler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\Testcontroler.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\Testcontroler.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\Testcontroler.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\Testcontroler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:50:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\AuthController .cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:50:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenRefreshRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\TokenRefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:27:33.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthResponse.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:32:39.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\JwtSettings.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:08:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TodoDto.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\TodoDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\TodoDto.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\TodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:54:29.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\UserDto.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:53:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\User.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:35:12.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ITokenService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ITokenService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:34:05.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthResponse.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:59:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\AuthService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:48:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\UserService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:56:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IUserService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:41:33.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Club.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Models\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Mapping\\AppMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:55:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\CategoryService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:01:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClubService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ClubService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ClubService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ClubService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\ClubService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:01:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\AuthRequest.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:32:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepositoriesUser.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:25:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:26:41.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:27:08.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TokenService.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:34:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TodoSetvice.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TodoSetvice.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\TodoSetvice.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\TodoSetvice.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\TodoSetvice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:56:40.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Todo.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:41.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITodoServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ITodoServices.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ITodoServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ITodoServices.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\ITodoServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:42:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IClubServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IClubServices.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\IClubServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\IClubServices.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\IClubServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:42:56.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Services\\ICategoryServices.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Services\\ICategoryServices.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Services\\ICategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:43:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepositoriesTodo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesTodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:12:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepositoriesClub.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesClub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:12:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRepositoriesCategory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositoriesCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:45:20.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositories.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\IRepositories.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\IRepositories.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\IRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:47:02.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\ClubRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\ClubRepository.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\ClubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:24:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Models\\Category.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:24:46.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnumDay.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumDay.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumDay.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumDay.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Enum\\EnumDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:47:10.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnumCategory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumCategory.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Enum\\EnumCategory.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Enum\\EnumCategory.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Enum\\EnumCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:47:10.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RefreshRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RefreshRequest.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\RefreshRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\RefreshRequest.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\RefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:33:10.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClubDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\ClubDto.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\ClubDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\ClubDto.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\ClubDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:54:02.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "LW4_MIA_2\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:53:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InMemoryDatebase.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Data\\InMemoryDatebase.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Data\\InMemoryDatebase.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Data\\InMemoryDatebase.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Data\\InMemoryDatebase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:45:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:15:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LW4_MIA_2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Lab\\3 \u043A\u0443\u0440\u0441\\(\u041C\u0406\u0410)\u0406\u041F\u0417\\LW4\\LW4_MIA_2\\LW4_MIA_2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LW4_MIA_2\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:36:40.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
